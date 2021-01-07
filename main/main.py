@@ -4,4 +4,4 @@ class Car:
         self.car_amount = amount
 
     def car_display_price(self):
-        return f'{self.car_amount:,}円'
+        return f'{self.car_amount:,}'
